@@ -1,1 +1,6 @@
-
+string are used for storing the text.
+A string variable contains a collection of charracter surrounded by double quotes.
+In c++ to use the string must use the header file <string>
+c++ support two type of string declaration
+ 1. c style string type
+ 2. string class type
